@@ -5,3 +5,4 @@ Gitの練習
 を学ぶ
 .git rm
 を学ぶ
+.git status
