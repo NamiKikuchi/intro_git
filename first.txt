@@ -1,2 +1,5 @@
 Gitの練習
 変更を加えました。
+.git add
+.git commid
+を学ぶ
