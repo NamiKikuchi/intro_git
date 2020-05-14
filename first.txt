@@ -6,3 +6,6 @@ Gitの練習
 .git rm
 を学ぶ
 .git status
+
+.git diff
+を学ぶ
